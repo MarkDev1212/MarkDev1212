@@ -11,8 +11,9 @@
 
 <br/>
 
-<img align="right" src="./Images/about_me.gif" width="350" alt="Markos Abebe coding animation" />
-
+<a href="https://github.com/MarkDev1212">
+  <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=false&vCenter=false&width=435&lines=Full-Stack+Software+Developer;Building+Mobile+%26+Web+Apps;Flutter,+React,+Next.js;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 ## 👨‍💻 About Me
 I am a passionate **Full-Stack Software Developer** focused on building user-friendly and scalable web and mobile applications. I constantly strive to improve my skills and build tools that solve real-world business problems.
 
