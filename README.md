@@ -1,4 +1,16 @@
 <div align="center">
+  <!-- የፅሁፍ አኒሜሽን (Typing Animation) -->
+  <a href="https://github.com/MarkDev1212">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Markos+Abebe+👋;Full+Stack+Software+Developer;Building+Digital+Solutions+🚀" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- የ Hacker (Glitch) GIF -->
+<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="350" alt="Hacker Animation" />
+
+<div align="center">
   <h1>Hi there, I'm Markos Abebe 👋</h1>
   <h3>Full Stack Software Developer</h3>
   <p><i>Building clean, production-ready applications with modern technologies.</i></p>
@@ -11,11 +23,7 @@
 
 <br/>
 
-<a href="https://github.com/MarkDev1212">
-  <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=false&vCenter=false&width=435&lines=Full-Stack+Software+Developer;Building+Mobile+%26+Web+Apps;Flutter,+React,+Next.js;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-<br>
-<br>
+
 ## 👨‍💻 About Me
 I am a passionate **Full-Stack Software Developer** focused on building user-friendly and scalable web and mobile applications. I constantly strive to improve my skills and build tools that solve real-world business problems.
 
