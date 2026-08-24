@@ -1,28 +1,28 @@
 <div align="center">
-  <!-- የፅሁፍ አኒሜሽን (Typing Animation) -->
+
+  <!-- 1. Typing Animation -->
   <a href="https://github.com/MarkDev1212">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Markos+Abebe+👋;Full+Stack+Software+Developer;Building+Digital+Solutions+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+There+I+am+Markos+Abebe;Full+Stack+Software+Developer;Building+Digital+Solutions" alt="Typing SVG" />
   </a>
-</div>
 
-<br/>
+  <br/><br/>
 
-<!-- የ Hacker (Glitch) GIF -->
-<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="350" alt="Hacker Animation" />
+  <!-- 2. Hacker GIF (Centered) -->
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="320" alt="Hacker Animation" />
 
-<div align="center">
-  <h1>Hi there, I'm Markos Abebe 👋</h1>
-  <h3>Full Stack Software Developer</h3>
+  <br/><br/>
+
+  <!-- 3. Subtitle & Social Links -->
   <p><i>Building clean, production-ready applications with modern technologies.</i></p>
   
   <p>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:markabt1221@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:markabt1221@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
+
 </div>
 
 <br/>
-
 
 ## 👨‍💻 About Me
 I am a passionate **Full-Stack Software Developer** focused on building user-friendly and scalable web and mobile applications. I constantly strive to improve my skills and build tools that solve real-world business problems.
@@ -56,3 +56,38 @@ I am a passionate **Full-Stack Software Developer** focused on building user-fri
 ---
 
 ## 🚀 Featured Projects
+
+### 1. [Your Strongest Project Name](#)
+> A brief, professional one-line description of the problem this project solves.
+
+- **Tech Stack:** Flutter • Node.js • PostgreSQL
+- **Key Features:**
+  - Secure User Authentication
+  - Real-time data processing
+- 🔗 [View Repository](#) | 🔗 [Live Demo](#)
+
+### 2. [Your Second Best Project](#)
+> What this project is and why you built it.
+
+- **Tech Stack:** Next.js • TypeScript • Tailwind CSS
+- **Key Features:**
+  - Responsive modern UI
+  - API integration and state management
+- 🔗 [View Repository](#) | 🔗 [Live Demo](#)
+
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MarkDev1212/MarkDev1212/output/dist/github-snake-dark.svg" alt="GitHub Snake" width="100%" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkDev1212&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="MarkDev1212's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkDev1212&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="MarkDev1212's GitHub Streak" width="48%" />
+</div>
