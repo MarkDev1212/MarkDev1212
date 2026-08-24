@@ -79,7 +79,7 @@ I am a Computer Science student, **Full-Stack Software Developer**, and freelanc
 ## 🐍 My Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MarkDev1212/MarkDev1212/output/dist/github-snake-dark.svg" alt="GitHub Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/MarkDev1212/MarkDev1212/output/github-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </div>
 
 ---
@@ -87,6 +87,6 @@ I am a Computer Science student, **Full-Stack Software Developer**, and freelanc
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarkDev1212&show_icons=true&theme=dark" alt="MarkDev1212's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkDev1212&theme=dark" alt="MarkDev1212's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkDev1212&show_icons=true&theme=tokyonight&v=2" alt="MarkDev1212's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkDev1212&theme=tokyonight" alt="MarkDev1212's GitHub Streak" width="48%" />
 </div>
