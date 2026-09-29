@@ -8,7 +8,7 @@
   <br/><br/>
 
   <!-- 2. Hacker GIF -->
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="320" alt="Hacker Animation" />
+  <!--<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="320" alt="Hacker Animation" />-->
 
   <br/><br/>
 
