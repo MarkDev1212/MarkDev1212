@@ -7,8 +7,8 @@
 
   <br/><br/>
 
-  <!-- 2. My Custom Door Animation (አዲሱ የአንተ አኒሜሽን እዚህ ጋር ነው) -->
-  <img src="./Images/my_avatar.gif" width="400" alt="Markos Door Animation" />
+  
+  <img src="./Images/my_avatar.gif" width="600" alt="Markos Door Animation" />
 
   <br/><br/>
 
