@@ -8,8 +8,7 @@
   <br/><br/>
 
   
-  <img src="./Images/my_avatar.gif" width="600" alt="Markos Door Animation" />
-
+ <img src="./Images/my_avatar.gif?v=1" width="500" alt="Markos Door Animation" />
   <br/><br/>
 
   <!-- 3. Subtitle & Social Links -->
