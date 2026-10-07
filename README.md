@@ -21,7 +21,7 @@
   </p>
 
    <p>
-    <img src="https://komarev.com/ghpvc/?username=MarkDev1212&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMarkDev1212&label=PROFILE%20VIEWS&countColor=%2358a6ff&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
