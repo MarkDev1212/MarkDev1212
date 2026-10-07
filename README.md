@@ -20,6 +20,10 @@
     <a href="https://markos-abebe.netlify.app/"><img src="https://img.shields.io/badge/Website-252F3F?style=for-the-badge&logo=World&logoColor=white" alt="Website" /></a>
   </p>
 
+   <p>
+    <img src="https://komarev.com/ghpvc/?username=MarkDev1212&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  </p>
+
 </div>
 
 <br/>
